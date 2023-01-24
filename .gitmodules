@@ -1,0 +1,3 @@
+[submodule "web_scraper"]
+	path = web_scraper
+	url = https://gitlab.com/lumina00/web_scraper
